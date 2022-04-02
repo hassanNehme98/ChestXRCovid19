@@ -12,5 +12,4 @@ DATE: 1 APRIL 2022
   
 2 In the models folder you can find all the saved models, one per directory.
 
-3 The original files are available on this address: [to_kaggle](https://cxr-covid19.grand-challenge.org/). 
-
+3 The original files are available on this address. [to_kaggle](https://cxr-covid19.grand-challenge.org/). I have no right to publish the data publicly.
