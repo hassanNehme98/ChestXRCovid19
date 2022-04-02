@@ -10,6 +10,6 @@ DATE: 1 APRIL 2022
 1 In the notebook.ipynb you find the code for all the implemented models alongside the obtained results after complete training and validation.
   Note that it took around half a day to train each one of these models.
   
-2 In the models folder you can find all the saved models, one per directory.
+2 In the models folder you can save the models and later load them (naming conventions used in our code are: standard, standardClahe, standardModified and xcpetion), one per directory.
 
 3 The original files are available on this address. [to_kaggle](https://cxr-covid19.grand-challenge.org/). I have no right to publish the data publicly.
